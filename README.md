@@ -1,5 +1,5 @@
-This app is a Brad Traversy's tutorial.
-It is visible [here](https://wonderful-johnson-8d2966.netlify.app/)
+> This app is a Brad Traversy's tutorial. 
+> It is visible [here](https://cranky-kilby-a6d186.netlify.app/)
 
 # Getting Started with Create React App
 
